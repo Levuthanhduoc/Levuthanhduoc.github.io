@@ -1,0 +1,1 @@
+async function o(t){let e,a={};t.option&&t.option.cookies&&(a={...a,credentials:"include"});const i=await fetch(t.url,{...a,method:t.methoud});return i.ok?e=(await i.json()).data:e=!1,e}export{o as f};
