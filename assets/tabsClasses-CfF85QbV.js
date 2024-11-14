@@ -1,0 +1,1 @@
+import{l,n as t}from"./index-0Al3NA_R.js";function a(e){return t("MuiTabs",e)}const r=l("MuiTabs",["root","vertical","flexContainer","flexContainerVertical","centered","scroller","fixed","scrollableX","scrollableY","hideScrollbar","scrollButtons","scrollButtonsHideMobile","indicator"]);export{a as g,r as t};
