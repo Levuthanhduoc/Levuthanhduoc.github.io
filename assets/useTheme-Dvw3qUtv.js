@@ -1,1 +1,0 @@
-import{m as r,T as a,D as i}from"./index-BhbbloSs.js";function d(e,o=166){let t;function n(...u){const c=()=>{e.apply(this,u)};clearTimeout(t),t=setTimeout(c,o)}return n.clear=()=>{clearTimeout(t)},n}function m(e){return e&&e.ownerDocument||document}function f(e){return m(e).defaultView||window}function l(){const e=r(i);return e[a]||e}export{f as a,d,m as o,l as u};
